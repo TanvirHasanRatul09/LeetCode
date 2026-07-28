@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
