@@ -10,11 +10,6 @@ public:
         for(char c:t){
             t1[c]++;
         }
-        for(auto it:s1){
-            if(t1[it.first]!=it.second){
-                return false;
-            }
-        }
-        return true;
+        return s1==t1;
     }
 };
