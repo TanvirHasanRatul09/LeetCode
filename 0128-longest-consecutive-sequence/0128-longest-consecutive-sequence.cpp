@@ -6,28 +6,28 @@ public:
 
         set<int> s;
 
-        for(int x : nums){
+        for(int x:nums){
             s.insert(x);
         }
 
-        int cnt = 1;
-        int ans = 1;
+        int cnt=1;
+        int ans=1;
 
-        auto it = s.begin();
-        int prev = *it;
+        auto it=s.begin();
+        int prev=*it;
         ++it;
 
-        for(; it != s.end(); it++){
+        for(;it!=s.end();it++){
 
-            if(*it - prev == 1){
+            if(*it-prev==1){
                 cnt++;
             }
             else{
-                cnt = 1;
+                cnt=1;
             }
 
-            ans = max(ans, cnt);
-            prev = *it;
+            ans=max(ans,cnt);
+            prev=*it;
         }
 
         return ans;
