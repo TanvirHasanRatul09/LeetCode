@@ -9,29 +9,16 @@ public:
         ListNode* node = head;
 
         while (node != nullptr) {
-
-            // Check if node is the beginning of a duplicate group
-            if (node->next != nullptr && node->val == node->next->val) {
-
-                // Move node to the last duplicate
-                while (node->next != nullptr &&
-                       node->val == node->next->val) {
-                    node = node->next;
+            if(node->next!=nullptr && node->val == node->next->val){
+                while(node->next!=nullptr && node->val==node->next->val){
+                    node=node->next;
                 }
-
-                // Skip the entire duplicate group
-                curr->next = node->next;
-
-            } else {
-
-                // node is unique, so keep it
-                curr = curr->next;
+                curr->next=node->next;
+            }else{
+                curr=curr->next;
             }
-
-            // Move to the next node
-            node = node->next;
+            node=node->next;
         }
-
         return dummy->next;
     }
 };
