@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0146-lru-cache) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/TanvirHasanRatul09/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
