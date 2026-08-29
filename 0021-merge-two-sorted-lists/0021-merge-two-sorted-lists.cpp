@@ -1,14 +1,14 @@
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* h1, ListNode* h2) {
-        if(h1==NULL)return h2;
-        if(h2==NULL)return h1;
-        if(h1->val<=h2->val){
-            h1->next=mergeTwoLists(h1->next,h2);
-            return h1;
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        if(l1==NULL)return l2;
+        if(l2==NULL)return l1;
+        if(l1->val<=l2->val){
+            l1->next=mergeTwoLists(l1->next,l2);
+            return l1;
         }else{
-            h2->next=mergeTwoLists(h1,h2->next);
-            return h2;
+            l2->next=mergeTwoLists(l1,l2->next);
+            return l2;
         }
     }
 };
