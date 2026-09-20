@@ -29,6 +29,7 @@ public:
      }
      bool hasPathSum(TreeNode* root, int targetSum) {
         stack<int>st;
-        return dfs(root,targetSum,st,0);
+        int curr=0;
+        return dfs(root,targetSum,st,curr);
     }
 };
